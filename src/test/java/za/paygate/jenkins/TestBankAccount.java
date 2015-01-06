@@ -6,4 +6,11 @@ import org.junit.Test;
  
 public class TestBankAccount {
  
+	/**
+	 * This is an example testcase
+	 */
+	@Test
+	public void testExampleTestCase() {
+		Assert.assertEquals(true, true);
+	}
 }
